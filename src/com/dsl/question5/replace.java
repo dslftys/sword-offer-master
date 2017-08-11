@@ -1,10 +1,10 @@
-package com.dsl;
+package com.dsl.question5;
 
 /**
  * Created by Victor on 2017/7/18.
  * 实现一个函数，将一个字符串中的空格替换成%20.例如当字符串为We Are Happy则经过替换后的字符串为We%20Are%20Happy
  */
-public class Q2 {
+public class replace {
     public String replaceSpace(StringBuffer str) {
         if(str ==null){
             return null;
