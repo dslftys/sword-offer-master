@@ -1,5 +1,8 @@
 # Created by .ignore support plugin (hsz.mobi)
-.out/*
+out/production/
+out
+.gitignore
+.idea
 .idea/*
 .idea/workspace.xml
 
